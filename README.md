@@ -42,4 +42,4 @@ Add me on LinkedIn [George Bias](https://github.com/gbias) 🚀
 
 ## Projetos
 
-- [x] Criando o nosso primeiro [Boilerplate] do NextJS (https://github.com/gbias/boilerplate)
+- [x] Criando o nosso primeiro [Boilerplate](https://github.com/gbias/boilerplate) do NextJS 
