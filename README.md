@@ -33,7 +33,6 @@ Add me on LinkedIn [George Bias](https://github.com/gbias) 🚀
 - [x] Apollo
 - [x] GraphQL
 - [x] Jest
-- [x] Jest
 - [x] Testing Library
 - [x] Storybook
 - [x] Cypress
